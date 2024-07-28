@@ -1,0 +1,23 @@
+.layout {
+    height: 100vh;
+}
+
+.loginContainer {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginCard {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    width: 400px;
+    padding: 20px;
+}
+
+.loginLogo {
+    width: 50%;
+    margin: auto;
+}
